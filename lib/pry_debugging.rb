@@ -1,3 +1,2 @@
-def plus_two(3)
-	sum = num + 2
+def plus_two(3).to eq 5
 end
